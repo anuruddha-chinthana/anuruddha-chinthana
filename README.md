@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Anuruddha Chinthana 👋</h1>
-<p align="left">I'm a full stack software engineer and naturalists . I love programming and explore new things.</p>
+<p align="left">I'm a full stack software engineer and naturalist🌳. I love programming and explore new things🔭.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuruddha-chinthana&label=Profile%20views&color=0e75b6&style=flat" alt="anuruddha-chinthana" /> </p>
 
-- 🔭 I’m currently working on **Laravel, Vue.js and React Native**
+- 🖥 I’m currently working on **Laravel, Vue.js and React Native**
 
-- 🌱 I’m currently learning **Machine learning and data science**
+- 📚 I’m currently learning **Machine learning and data science**
 
 <h3 align="left">Hire me on:</h3>
 <p align="left">
